@@ -358,6 +358,7 @@ h4 {
   bottom: 0;
   z-index: 1;
   position: fixed;
+/*   add gif image link here... */
   background:white url('Eclipse-1.2s-190px.gif') center no-repeat;
 }
 
